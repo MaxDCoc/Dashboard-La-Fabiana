@@ -19,3 +19,8 @@ requieren `pandas` ni `openpyxl`.
 Los 4 KPI principales de `data.json` fueron verificados contra los gauges del
 `DashbordLaFabiana.pbix` original: 23,75% costo/ingresos, 84,35% satisfacción familiar,
 26,9 hs de SLA promedio y 1,39 hs de capacitación por empleado/año.
+
+## Deploy
+
+El dashboard está en producción en https://dashboard-la-fabiana.vercel.app, con deploy
+continuo: cada push a `main` en GitHub dispara un build y deploy automático en Vercel.
