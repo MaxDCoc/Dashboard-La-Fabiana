@@ -218,11 +218,16 @@ export function buildBarsOption({ categories, series, horizontal, stacked, forma
           width: rotateLabels ? 92 : undefined,
         },
   };
+  // A single horizontal series already prints its exact value at the bar's
+  // end — an axis scale on top of that has no room in a narrow card (labels
+  // like "200h"/"400h" collide) and is redundant anyway, so drop it there
+  // and keep only the light reference gridlines.
+  const singleHorizontalBars = horizontal && series.length === 1;
   const valueAxis = {
     type: 'value',
     axisLine: { show: false },
     splitNumber: horizontal ? 3 : 4,
-    axisLabel: { color: textMuted, ...AXIS_LABEL_FONT, formatter: (v) => (formatY ? formatY(v) : v) },
+    axisLabel: singleHorizontalBars ? { show: false } : { color: textMuted, ...AXIS_LABEL_FONT, formatter: (v) => (formatY ? formatY(v) : v) },
     splitLine: { lineStyle: { color: gridline } },
   };
 
@@ -249,7 +254,7 @@ export function buildBarsOption({ categories, series, horizontal, stacked, forma
       left: horizontal ? 190 : 54,
       right: horizontal ? 46 : 16,
       top: 14,
-      bottom: series.length > 1 ? 46 : rotateLabels ? 92 : 30,
+      bottom: series.length > 1 ? 46 : singleHorizontalBars ? 8 : rotateLabels ? 92 : 30,
       // containLabel would ADD its own auto label-space on top of the fixed
       // left/right we already reserve for the (long, truncated) horizontal
       // category labels, shrinking the plot area to ~0 — only use it for the
