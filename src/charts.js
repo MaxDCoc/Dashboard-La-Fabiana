@@ -103,12 +103,15 @@ export function buildDonutOption({ slices, centerValue, centerLabel, formatVal, 
       formatter: (p) => `${p.marker}${p.name}: <b>${formatVal ? formatVal(p.value) : fmtNum(p.value, 0)}</b> · ${p.percent}%`,
     },
     legend: {
+      type: 'scroll',
       bottom: 0,
       left: 'center',
       icon: 'circle',
       itemWidth: 9,
       itemHeight: 9,
       textStyle: { color: textMuted, fontSize: 11 },
+      pageIconSize: 10,
+      pageTextStyle: { color: textMuted },
     },
     series: [
       {
@@ -206,7 +209,10 @@ export function buildBarsOption({ categories, series, horizontal, stacked, forma
       : {
           color: textMuted,
           fontSize: 10,
-          interval: 0,
+          // 'auto' lets ECharts skip labels to avoid overlap on narrow
+          // viewports; forcing interval:0 (show all) was crowding 24 month
+          // labels together with an 8-item legend on mobile widths.
+          interval: 'auto',
           rotate: rotateLabels ? 38 : 0,
           overflow: rotateLabels ? 'truncate' : undefined,
           width: rotateLabels ? 92 : undefined,
@@ -228,7 +234,16 @@ export function buildBarsOption({ categories, series, horizontal, stacked, forma
     },
     legend:
       series.length > 1
-        ? { bottom: 0, icon: 'circle', itemWidth: 9, itemHeight: 9, textStyle: { color: textMuted, fontSize: 11 } }
+        ? {
+            type: 'scroll',
+            bottom: 0,
+            icon: 'circle',
+            itemWidth: 9,
+            itemHeight: 9,
+            textStyle: { color: textMuted, fontSize: 11 },
+            pageIconSize: 10,
+            pageTextStyle: { color: textMuted },
+          }
         : undefined,
     grid: {
       left: horizontal ? 190 : 54,
