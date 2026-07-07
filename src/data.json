@@ -715,52 +715,62 @@
       {
         "motivo": "Consulta sobre actividades sociales",
         "horas_totales": 597.6,
-        "horas_promedio": 27.2
+        "horas_promedio": 27.2,
+        "resueltas": 22
       },
       {
         "motivo": "Reclamo por trato del personal",
         "horas_totales": 567.6,
-        "horas_promedio": 25.8
+        "horas_promedio": 25.8,
+        "resueltas": 22
       },
       {
         "motivo": "Solicitud de reunión con médico",
         "horas_totales": 413.3,
-        "horas_promedio": 25.8
+        "horas_promedio": 25.8,
+        "resueltas": 16
       },
       {
         "motivo": "Pedido de turno médico externo",
         "horas_totales": 524.7,
-        "horas_promedio": 26.2
+        "horas_promedio": 26.2,
+        "resueltas": 20
       },
       {
         "motivo": "Pedido de copia de historia clínica",
         "horas_totales": 463.1,
-        "horas_promedio": 27.2
+        "horas_promedio": 27.2,
+        "resueltas": 17
       },
       {
         "motivo": "Consulta sobre arancel / facturación",
         "horas_totales": 428.6,
-        "horas_promedio": 22.6
+        "horas_promedio": 22.6,
+        "resueltas": 19
       },
       {
         "motivo": "Cambio de datos de contacto",
         "horas_totales": 462.7,
-        "horas_promedio": 33.0
+        "horas_promedio": 33.0,
+        "resueltas": 14
       },
       {
         "motivo": "Solicitud de información clínica",
         "horas_totales": 413.0,
-        "horas_promedio": 27.5
+        "horas_promedio": 27.5,
+        "resueltas": 15
       },
       {
         "motivo": "Consulta sobre medicación",
         "horas_totales": 459.5,
-        "horas_promedio": 30.6
+        "horas_promedio": 30.6,
+        "resueltas": 15
       },
       {
         "motivo": "Solicitud de visita extraordinaria",
         "horas_totales": 380.2,
-        "horas_promedio": 25.3
+        "horas_promedio": 25.3,
+        "resueltas": 15
       }
     ],
     "registros_por_trimestre": [

@@ -151,7 +151,12 @@ estado_solicitudes = sorted(
 )
 
 horas_resolucion_por_motivo = [
-    {'motivo': m, 'horas_totales': round(sum(sol_motivo_horas[m]), 1), 'horas_promedio': round(sum(sol_motivo_horas[m])/len(sol_motivo_horas[m]), 1) if sol_motivo_horas[m] else 0}
+    {
+        'motivo': m,
+        'horas_totales': round(sum(sol_motivo_horas[m]), 1),
+        'horas_promedio': round(sum(sol_motivo_horas[m])/len(sol_motivo_horas[m]), 1) if sol_motivo_horas[m] else 0,
+        'resueltas': sol_motivo_resolved_count[m],
+    }
     for m in motivos_sorted
 ]
 

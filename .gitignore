@@ -2,3 +2,5 @@ node_modules
 dist
 .vercel
 *.log
+data-pipeline/lafabiana_extracted.json
+data-pipeline/lafabiana_aggregated.json
