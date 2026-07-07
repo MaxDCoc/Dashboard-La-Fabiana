@@ -1,0 +1,1158 @@
+{
+  "financiera": {
+    "costo_evolucion": [
+      {
+        "label": "ene 2023",
+        "anio": 2023,
+        "mes": 1,
+        "total": 3354030.86
+      },
+      {
+        "label": "feb 2023",
+        "anio": 2023,
+        "mes": 2,
+        "total": 3371566.71
+      },
+      {
+        "label": "mar 2023",
+        "anio": 2023,
+        "mes": 3,
+        "total": 3074026.92
+      },
+      {
+        "label": "abr 2023",
+        "anio": 2023,
+        "mes": 4,
+        "total": 4395476.78
+      },
+      {
+        "label": "may 2023",
+        "anio": 2023,
+        "mes": 5,
+        "total": 3873254.65
+      },
+      {
+        "label": "jun 2023",
+        "anio": 2023,
+        "mes": 6,
+        "total": 3592230.61
+      },
+      {
+        "label": "jul 2023",
+        "anio": 2023,
+        "mes": 7,
+        "total": 5092783.58
+      },
+      {
+        "label": "ago 2023",
+        "anio": 2023,
+        "mes": 8,
+        "total": 4821867.24
+      },
+      {
+        "label": "sep 2023",
+        "anio": 2023,
+        "mes": 9,
+        "total": 5650739.12
+      },
+      {
+        "label": "oct 2023",
+        "anio": 2023,
+        "mes": 10,
+        "total": 5132813.53
+      },
+      {
+        "label": "nov 2023",
+        "anio": 2023,
+        "mes": 11,
+        "total": 5154506.14
+      },
+      {
+        "label": "dic 2023",
+        "anio": 2023,
+        "mes": 12,
+        "total": 6634562.05
+      },
+      {
+        "label": "ene 2024",
+        "anio": 2024,
+        "mes": 1,
+        "total": 5592561.37
+      },
+      {
+        "label": "feb 2024",
+        "anio": 2024,
+        "mes": 2,
+        "total": 6310123.48
+      },
+      {
+        "label": "mar 2024",
+        "anio": 2024,
+        "mes": 3,
+        "total": 6720335.59
+      },
+      {
+        "label": "abr 2024",
+        "anio": 2024,
+        "mes": 4,
+        "total": 6170314.51
+      },
+      {
+        "label": "may 2024",
+        "anio": 2024,
+        "mes": 5,
+        "total": 8338772.58
+      },
+      {
+        "label": "jun 2024",
+        "anio": 2024,
+        "mes": 6,
+        "total": 7324986.05
+      },
+      {
+        "label": "jul 2024",
+        "anio": 2024,
+        "mes": 7,
+        "total": 8027788.94
+      },
+      {
+        "label": "ago 2024",
+        "anio": 2024,
+        "mes": 8,
+        "total": 8019347.82
+      },
+      {
+        "label": "sep 2024",
+        "anio": 2024,
+        "mes": 9,
+        "total": 11248404.45
+      },
+      {
+        "label": "oct 2024",
+        "anio": 2024,
+        "mes": 10,
+        "total": 10846340.78
+      },
+      {
+        "label": "nov 2024",
+        "anio": 2024,
+        "mes": 11,
+        "total": 10772273.68
+      },
+      {
+        "label": "dic 2024",
+        "anio": 2024,
+        "mes": 12,
+        "total": 11527219.5
+      }
+    ],
+    "costo_por_mes_concepto": [
+      {
+        "label": "ene 2023",
+        "anio": 2023,
+        "mes": 1,
+        "Horas extras": 831452.31,
+        "Sueldos y cargas sociales": 1045333.31,
+        "Medicamentos (Biofar)": 170581.29,
+        "Insumos de enfermería": 166930.18,
+        "Alimentos (Cheek)": 175774.03,
+        "Insumos de limpieza": 190891.45,
+        "Mantenimiento edilicio": 123046.61,
+        "Limpieza tercerizada": 102720.32
+      },
+      {
+        "label": "feb 2023",
+        "anio": 2023,
+        "mes": 2,
+        "Horas extras": 982698.55,
+        "Sueldos y cargas sociales": 962063.71,
+        "Medicamentos (Biofar)": 184409.63,
+        "Insumos de enfermería": 163135.61,
+        "Alimentos (Cheek)": 183772.95,
+        "Insumos de limpieza": 160199.56,
+        "Mantenimiento edilicio": 107243.52,
+        "Limpieza tercerizada": 95931.19
+      },
+      {
+        "label": "mar 2023",
+        "anio": 2023,
+        "mes": 3,
+        "Horas extras": 919416.73,
+        "Sueldos y cargas sociales": 848171.19,
+        "Medicamentos (Biofar)": 145580.23,
+        "Insumos de enfermería": 160740.13,
+        "Alimentos (Cheek)": 153357.8,
+        "Insumos de limpieza": 176157.56,
+        "Mantenimiento edilicio": 93956.97,
+        "Limpieza tercerizada": 106639.88
+      },
+      {
+        "label": "abr 2023",
+        "anio": 2023,
+        "mes": 4,
+        "Horas extras": 1281694.81,
+        "Sueldos y cargas sociales": 1213349.79,
+        "Medicamentos (Biofar)": 229138.08,
+        "Insumos de enfermería": 254987.66,
+        "Alimentos (Cheek)": 215827.65,
+        "Insumos de limpieza": 231657.01,
+        "Mantenimiento edilicio": 125814.36,
+        "Limpieza tercerizada": 155163.95
+      },
+      {
+        "label": "may 2023",
+        "anio": 2023,
+        "mes": 5,
+        "Horas extras": 961933.99,
+        "Sueldos y cargas sociales": 1199354.9,
+        "Medicamentos (Biofar)": 199792.21,
+        "Insumos de enfermería": 208297.89,
+        "Alimentos (Cheek)": 190935.73,
+        "Insumos de limpieza": 201951.66,
+        "Mantenimiento edilicio": 133339.99,
+        "Limpieza tercerizada": 120223.37
+      },
+      {
+        "label": "jun 2023",
+        "anio": 2023,
+        "mes": 6,
+        "Horas extras": 979300.67,
+        "Sueldos y cargas sociales": 1009726.51,
+        "Medicamentos (Biofar)": 177104.22,
+        "Insumos de enfermería": 210472.06,
+        "Alimentos (Cheek)": 196058.1,
+        "Insumos de limpieza": 223361.36,
+        "Mantenimiento edilicio": 124509.43,
+        "Limpieza tercerizada": 132993.39
+      },
+      {
+        "label": "jul 2023",
+        "anio": 2023,
+        "mes": 7,
+        "Horas extras": 1292263.23,
+        "Sueldos y cargas sociales": 1419593.86,
+        "Medicamentos (Biofar)": 246282.41,
+        "Insumos de enfermería": 293240.67,
+        "Alimentos (Cheek)": 278392.92,
+        "Insumos de limpieza": 295688.45,
+        "Mantenimiento edilicio": 188407.93,
+        "Limpieza tercerizada": 180986.07
+      },
+      {
+        "label": "ago 2023",
+        "anio": 2023,
+        "mes": 8,
+        "Horas extras": 1234718.47,
+        "Sueldos y cargas sociales": 1446225.82,
+        "Medicamentos (Biofar)": 263490.53,
+        "Insumos de enfermería": 234689.26,
+        "Alimentos (Cheek)": 284397.77,
+        "Insumos de limpieza": 269910.37,
+        "Mantenimiento edilicio": 152956.22,
+        "Limpieza tercerizada": 151461.21
+      },
+      {
+        "label": "sep 2023",
+        "anio": 2023,
+        "mes": 9,
+        "Horas extras": 1569862.63,
+        "Sueldos y cargas sociales": 1571472.48,
+        "Medicamentos (Biofar)": 348534.13,
+        "Insumos de enfermería": 323349.61,
+        "Alimentos (Cheek)": 270410.46,
+        "Insumos de limpieza": 289551.19,
+        "Mantenimiento edilicio": 213965.59,
+        "Limpieza tercerizada": 168898.39
+      },
+      {
+        "label": "oct 2023",
+        "anio": 2023,
+        "mes": 10,
+        "Horas extras": 1430301.74,
+        "Sueldos y cargas sociales": 1283246.71,
+        "Medicamentos (Biofar)": 326313.98,
+        "Insumos de enfermería": 264232.63,
+        "Alimentos (Cheek)": 316846.7,
+        "Insumos de limpieza": 262332.24,
+        "Mantenimiento edilicio": 189159.34,
+        "Limpieza tercerizada": 195571.91
+      },
+      {
+        "label": "nov 2023",
+        "anio": 2023,
+        "mes": 11,
+        "Horas extras": 1367946.33,
+        "Sueldos y cargas sociales": 1294153.54,
+        "Medicamentos (Biofar)": 342752.43,
+        "Insumos de enfermería": 335693.94,
+        "Alimentos (Cheek)": 312413.27,
+        "Insumos de limpieza": 325987.31,
+        "Mantenimiento edilicio": 175706.84,
+        "Limpieza tercerizada": 155333.82
+      },
+      {
+        "label": "dic 2023",
+        "anio": 2023,
+        "mes": 12,
+        "Horas extras": 1972907.29,
+        "Sueldos y cargas sociales": 1691621.42,
+        "Medicamentos (Biofar)": 404467.6,
+        "Insumos de enfermería": 386288.84,
+        "Alimentos (Cheek)": 311346.45,
+        "Insumos de limpieza": 384814.56,
+        "Mantenimiento edilicio": 189733.42,
+        "Limpieza tercerizada": 216826.07
+      },
+      {
+        "label": "ene 2024",
+        "anio": 2024,
+        "mes": 1,
+        "Horas extras": 1493012.03,
+        "Sueldos y cargas sociales": 1726896.52,
+        "Medicamentos (Biofar)": 286087.52,
+        "Insumos de enfermería": 294360.12,
+        "Alimentos (Cheek)": 259797.46,
+        "Insumos de limpieza": 340204.69,
+        "Mantenimiento edilicio": 180824.0,
+        "Limpieza tercerizada": 158799.79
+      },
+      {
+        "label": "feb 2024",
+        "anio": 2024,
+        "mes": 2,
+        "Horas extras": 1878462.68,
+        "Sueldos y cargas sociales": 1536030.87,
+        "Medicamentos (Biofar)": 329930.1,
+        "Insumos de enfermería": 401811.37,
+        "Alimentos (Cheek)": 336783.26,
+        "Insumos de limpieza": 370914.33,
+        "Mantenimiento edilicio": 191641.64,
+        "Limpieza tercerizada": 241691.52
+      },
+      {
+        "label": "mar 2024",
+        "anio": 2024,
+        "mes": 3,
+        "Horas extras": 1967486.58,
+        "Sueldos y cargas sociales": 1646324.44,
+        "Medicamentos (Biofar)": 418068.79,
+        "Insumos de enfermería": 369608.64,
+        "Alimentos (Cheek)": 382844.58,
+        "Insumos de limpieza": 376084.23,
+        "Mantenimiento edilicio": 236379.27,
+        "Limpieza tercerizada": 256148.67
+      },
+      {
+        "label": "abr 2024",
+        "anio": 2024,
+        "mes": 4,
+        "Horas extras": 1562418.18,
+        "Sueldos y cargas sociales": 1802339.99,
+        "Medicamentos (Biofar)": 361287.43,
+        "Insumos de enfermería": 402855.1,
+        "Alimentos (Cheek)": 348405.71,
+        "Insumos de limpieza": 305496.95,
+        "Mantenimiento edilicio": 190557.98,
+        "Limpieza tercerizada": 198630.88
+      },
+      {
+        "label": "may 2024",
+        "anio": 2024,
+        "mes": 5,
+        "Horas extras": 2166709.3,
+        "Sueldos y cargas sociales": 2328778.29,
+        "Medicamentos (Biofar)": 406300.41,
+        "Insumos de enfermería": 535016.26,
+        "Alimentos (Cheek)": 499636.5,
+        "Insumos de limpieza": 441396.62,
+        "Mantenimiento edilicio": 296140.29,
+        "Limpieza tercerizada": 249049.71
+      },
+      {
+        "label": "jun 2024",
+        "anio": 2024,
+        "mes": 6,
+        "Horas extras": 2065280.63,
+        "Sueldos y cargas sociales": 1967474.61,
+        "Medicamentos (Biofar)": 424755.2,
+        "Insumos de enfermería": 415185.07,
+        "Alimentos (Cheek)": 384156.14,
+        "Insumos de limpieza": 437114.25,
+        "Mantenimiento edilicio": 205831.68,
+        "Limpieza tercerizada": 260070.48
+      },
+      {
+        "label": "jul 2024",
+        "anio": 2024,
+        "mes": 7,
+        "Horas extras": 2507632.78,
+        "Sueldos y cargas sociales": 1868363.81,
+        "Medicamentos (Biofar)": 441253.53,
+        "Insumos de enfermería": 409776.41,
+        "Alimentos (Cheek)": 488557.15,
+        "Insumos de limpieza": 430389.44,
+        "Mantenimiento edilicio": 247343.84,
+        "Limpieza tercerizada": 301593.15
+      },
+      {
+        "label": "ago 2024",
+        "anio": 2024,
+        "mes": 8,
+        "Horas extras": 2115413.93,
+        "Sueldos y cargas sociales": 2073214.65,
+        "Medicamentos (Biofar)": 418900.66,
+        "Insumos de enfermería": 466297.35,
+        "Alimentos (Cheek)": 433772.16,
+        "Insumos de limpieza": 482898.5,
+        "Mantenimiento edilicio": 321586.74,
+        "Limpieza tercerizada": 254718.06
+      },
+      {
+        "label": "sep 2024",
+        "anio": 2024,
+        "mes": 9,
+        "Horas extras": 3306162.31,
+        "Sueldos y cargas sociales": 3124259.93,
+        "Medicamentos (Biofar)": 656952.61,
+        "Insumos de enfermería": 585327.8,
+        "Alimentos (Cheek)": 567309.58,
+        "Insumos de limpieza": 567902.15,
+        "Mantenimiento edilicio": 348419.82,
+        "Limpieza tercerizada": 342514.87
+      },
+      {
+        "label": "oct 2024",
+        "anio": 2024,
+        "mes": 10,
+        "Horas extras": 3098752.69,
+        "Sueldos y cargas sociales": 3037869.07,
+        "Medicamentos (Biofar)": 628105.29,
+        "Insumos de enfermería": 526675.9,
+        "Alimentos (Cheek)": 637569.97,
+        "Insumos de limpieza": 524407.26,
+        "Mantenimiento edilicio": 347833.94,
+        "Limpieza tercerizada": 335847.89
+      },
+      {
+        "label": "nov 2024",
+        "anio": 2024,
+        "mes": 11,
+        "Horas extras": 3050173.0,
+        "Sueldos y cargas sociales": 2980165.84,
+        "Medicamentos (Biofar)": 614490.78,
+        "Insumos de enfermería": 577587.2,
+        "Alimentos (Cheek)": 628400.3,
+        "Insumos de limpieza": 542345.18,
+        "Mantenimiento edilicio": 337175.86,
+        "Limpieza tercerizada": 310694.48
+      },
+      {
+        "label": "dic 2024",
+        "anio": 2024,
+        "mes": 12,
+        "Horas extras": 3172506.64,
+        "Sueldos y cargas sociales": 3022656.02,
+        "Medicamentos (Biofar)": 685319.47,
+        "Insumos de enfermería": 635588.54,
+        "Alimentos (Cheek)": 701892.01,
+        "Insumos de limpieza": 707984.74,
+        "Mantenimiento edilicio": 405730.08,
+        "Limpieza tercerizada": 419714.9
+      }
+    ],
+    "top_concepts": [
+      "Horas extras",
+      "Sueldos y cargas sociales",
+      "Medicamentos (Biofar)",
+      "Insumos de enfermería",
+      "Alimentos (Cheek)",
+      "Insumos de limpieza",
+      "Mantenimiento edilicio",
+      "Limpieza tercerizada"
+    ],
+    "costo_por_categoria": [
+      {
+        "categoria": "RRHH",
+        "monto": 85307194.78,
+        "pct": 55.02
+      },
+      {
+        "categoria": "insumos",
+        "monto": 34430346.48,
+        "pct": 22.21
+      },
+      {
+        "categoria": "mantenimiento",
+        "monto": 15242593.4,
+        "pct": 9.83
+      },
+      {
+        "categoria": "tecnologia",
+        "monto": 12387730.53,
+        "pct": 7.99
+      },
+      {
+        "categoria": "otros",
+        "monto": 7678461.75,
+        "pct": 4.95
+      }
+    ],
+    "tasa_costo_admin_sobre_ingresos": 23.75
+  },
+  "clientes": {
+    "satisfaccion_evolucion": [
+      {
+        "label": "ene 2023",
+        "anio": 2023,
+        "mes": 1,
+        "promedio": 4.29
+      },
+      {
+        "label": "feb 2023",
+        "anio": 2023,
+        "mes": 2,
+        "promedio": 4.4
+      },
+      {
+        "label": "mar 2023",
+        "anio": 2023,
+        "mes": 3,
+        "promedio": 4.29
+      },
+      {
+        "label": "abr 2023",
+        "anio": 2023,
+        "mes": 4,
+        "promedio": 4.11
+      },
+      {
+        "label": "may 2023",
+        "anio": 2023,
+        "mes": 5,
+        "promedio": 4.29
+      },
+      {
+        "label": "jun 2023",
+        "anio": 2023,
+        "mes": 6,
+        "promedio": 4.04
+      },
+      {
+        "label": "jul 2023",
+        "anio": 2023,
+        "mes": 7,
+        "promedio": 4.18
+      },
+      {
+        "label": "ago 2023",
+        "anio": 2023,
+        "mes": 8,
+        "promedio": 4.33
+      },
+      {
+        "label": "sep 2023",
+        "anio": 2023,
+        "mes": 9,
+        "promedio": 4.31
+      },
+      {
+        "label": "oct 2023",
+        "anio": 2023,
+        "mes": 10,
+        "promedio": 4.2
+      },
+      {
+        "label": "nov 2023",
+        "anio": 2023,
+        "mes": 11,
+        "promedio": 4.0
+      },
+      {
+        "label": "dic 2023",
+        "anio": 2023,
+        "mes": 12,
+        "promedio": 4.49
+      },
+      {
+        "label": "ene 2024",
+        "anio": 2024,
+        "mes": 1,
+        "promedio": 4.49
+      },
+      {
+        "label": "feb 2024",
+        "anio": 2024,
+        "mes": 2,
+        "promedio": 4.47
+      },
+      {
+        "label": "mar 2024",
+        "anio": 2024,
+        "mes": 3,
+        "promedio": 4.31
+      },
+      {
+        "label": "abr 2024",
+        "anio": 2024,
+        "mes": 4,
+        "promedio": 4.27
+      },
+      {
+        "label": "may 2024",
+        "anio": 2024,
+        "mes": 5,
+        "promedio": 4.27
+      },
+      {
+        "label": "jun 2024",
+        "anio": 2024,
+        "mes": 6,
+        "promedio": 4.29
+      },
+      {
+        "label": "jul 2024",
+        "anio": 2024,
+        "mes": 7,
+        "promedio": 4.2
+      },
+      {
+        "label": "ago 2024",
+        "anio": 2024,
+        "mes": 8,
+        "promedio": 4.24
+      },
+      {
+        "label": "sep 2024",
+        "anio": 2024,
+        "mes": 9,
+        "promedio": 4.09
+      },
+      {
+        "label": "oct 2024",
+        "anio": 2024,
+        "mes": 10,
+        "promedio": 4.44
+      },
+      {
+        "label": "nov 2024",
+        "anio": 2024,
+        "mes": 11,
+        "promedio": 4.36
+      },
+      {
+        "label": "dic 2024",
+        "anio": 2024,
+        "mes": 12,
+        "promedio": 3.91
+      }
+    ],
+    "rating_distribution": [
+      {
+        "rating": 1,
+        "cantidad": 25
+      },
+      {
+        "rating": 2,
+        "cantidad": 32
+      },
+      {
+        "rating": 3,
+        "cantidad": 112
+      },
+      {
+        "rating": 4,
+        "cantidad": 378
+      },
+      {
+        "rating": 5,
+        "cantidad": 533
+      }
+    ],
+    "tasa_satisfaccion_familiar": 84.35,
+    "solicitudes_por_anio_motivo": [
+      {
+        "anio": "2023",
+        "Consulta sobre actividades sociales": 17,
+        "Reclamo por trato del personal": 14,
+        "Solicitud de reunión con médico": 13,
+        "Pedido de turno médico externo": 12,
+        "Pedido de copia de historia clínica": 14,
+        "Consulta sobre arancel / facturación": 15,
+        "Cambio de datos de contacto": 6,
+        "Solicitud de información clínica": 13,
+        "Consulta sobre medicación": 8,
+        "Solicitud de visita extraordinaria": 14
+      },
+      {
+        "anio": "2024",
+        "Consulta sobre actividades sociales": 15,
+        "Reclamo por trato del personal": 16,
+        "Solicitud de reunión con médico": 13,
+        "Pedido de turno médico externo": 13,
+        "Pedido de copia de historia clínica": 10,
+        "Consulta sobre arancel / facturación": 8,
+        "Cambio de datos de contacto": 16,
+        "Solicitud de información clínica": 9,
+        "Consulta sobre medicación": 13,
+        "Solicitud de visita extraordinaria": 5
+      }
+    ],
+    "motivos_sorted": [
+      "Consulta sobre actividades sociales",
+      "Reclamo por trato del personal",
+      "Solicitud de reunión con médico",
+      "Pedido de turno médico externo",
+      "Pedido de copia de historia clínica",
+      "Consulta sobre arancel / facturación",
+      "Cambio de datos de contacto",
+      "Solicitud de información clínica",
+      "Consulta sobre medicación",
+      "Solicitud de visita extraordinaria"
+    ]
+  },
+  "procesos": {
+    "horas_resolucion_por_motivo": [
+      {
+        "motivo": "Consulta sobre actividades sociales",
+        "horas_totales": 597.6,
+        "horas_promedio": 27.2
+      },
+      {
+        "motivo": "Reclamo por trato del personal",
+        "horas_totales": 567.6,
+        "horas_promedio": 25.8
+      },
+      {
+        "motivo": "Solicitud de reunión con médico",
+        "horas_totales": 413.3,
+        "horas_promedio": 25.8
+      },
+      {
+        "motivo": "Pedido de turno médico externo",
+        "horas_totales": 524.7,
+        "horas_promedio": 26.2
+      },
+      {
+        "motivo": "Pedido de copia de historia clínica",
+        "horas_totales": 463.1,
+        "horas_promedio": 27.2
+      },
+      {
+        "motivo": "Consulta sobre arancel / facturación",
+        "horas_totales": 428.6,
+        "horas_promedio": 22.6
+      },
+      {
+        "motivo": "Cambio de datos de contacto",
+        "horas_totales": 462.7,
+        "horas_promedio": 33.0
+      },
+      {
+        "motivo": "Solicitud de información clínica",
+        "horas_totales": 413.0,
+        "horas_promedio": 27.5
+      },
+      {
+        "motivo": "Consulta sobre medicación",
+        "horas_totales": 459.5,
+        "horas_promedio": 30.6
+      },
+      {
+        "motivo": "Solicitud de visita extraordinaria",
+        "horas_totales": 380.2,
+        "horas_promedio": 25.3
+      }
+    ],
+    "registros_por_trimestre": [
+      {
+        "label": "T1 2023",
+        "anio": 2023,
+        "trimestre": 1,
+        "aconpy": 260,
+        "manual": 230,
+        "nexup": 236
+      },
+      {
+        "label": "T2 2023",
+        "anio": 2023,
+        "trimestre": 2,
+        "aconpy": 201,
+        "manual": 215,
+        "nexup": 204
+      },
+      {
+        "label": "T3 2023",
+        "anio": 2023,
+        "trimestre": 3,
+        "aconpy": 235,
+        "manual": 210,
+        "nexup": 198
+      },
+      {
+        "label": "T4 2023",
+        "anio": 2023,
+        "trimestre": 4,
+        "aconpy": 238,
+        "manual": 263,
+        "nexup": 254
+      },
+      {
+        "label": "T1 2024",
+        "anio": 2024,
+        "trimestre": 1,
+        "aconpy": 244,
+        "manual": 220,
+        "nexup": 245
+      },
+      {
+        "label": "T2 2024",
+        "anio": 2024,
+        "trimestre": 2,
+        "aconpy": 250,
+        "manual": 257,
+        "nexup": 238
+      },
+      {
+        "label": "T3 2024",
+        "anio": 2024,
+        "trimestre": 3,
+        "aconpy": 256,
+        "manual": 228,
+        "nexup": 254
+      },
+      {
+        "label": "T4 2024",
+        "anio": 2024,
+        "trimestre": 4,
+        "aconpy": 238,
+        "manual": 236,
+        "nexup": 237
+      }
+    ],
+    "sistemas_set": [
+      "aconpy",
+      "manual",
+      "nexup"
+    ],
+    "estado_solicitudes": [
+      {
+        "estado": "Resuelto",
+        "cantidad": 175,
+        "pct": 71.72
+      },
+      {
+        "estado": "En Proceso",
+        "cantidad": 35,
+        "pct": 14.34
+      },
+      {
+        "estado": "Abierto",
+        "cantidad": 34,
+        "pct": 13.93
+      }
+    ],
+    "solicitudes_por_motivo": [
+      {
+        "motivo": "Consulta sobre actividades sociales",
+        "cantidad": 32
+      },
+      {
+        "motivo": "Reclamo por trato del personal",
+        "cantidad": 30
+      },
+      {
+        "motivo": "Solicitud de reunión con médico",
+        "cantidad": 26
+      },
+      {
+        "motivo": "Pedido de turno médico externo",
+        "cantidad": 25
+      },
+      {
+        "motivo": "Pedido de copia de historia clínica",
+        "cantidad": 24
+      },
+      {
+        "motivo": "Consulta sobre arancel / facturación",
+        "cantidad": 23
+      },
+      {
+        "motivo": "Cambio de datos de contacto",
+        "cantidad": 22
+      },
+      {
+        "motivo": "Solicitud de información clínica",
+        "cantidad": 22
+      },
+      {
+        "motivo": "Consulta sobre medicación",
+        "cantidad": 21
+      },
+      {
+        "motivo": "Solicitud de visita extraordinaria",
+        "cantidad": 19
+      }
+    ],
+    "sla_promedio": 26.9
+  },
+  "aprendizaje": {
+    "horas_capacitacion_por_tema": [
+      {
+        "tema": "Primeros auxilios",
+        "horas": 269.0,
+        "pct": 19.11
+      },
+      {
+        "tema": "Administración de medicamentos",
+        "horas": 189.0,
+        "pct": 13.42
+      },
+      {
+        "tema": "Uso del sistema Aconpy",
+        "horas": 186.0,
+        "pct": 13.21
+      },
+      {
+        "tema": "Bioseguridad y residuos patológicos",
+        "horas": 170.0,
+        "pct": 12.07
+      },
+      {
+        "tema": "Comunicación con familias",
+        "horas": 150.0,
+        "pct": 10.65
+      },
+      {
+        "tema": "Manejo del sistema Nexup",
+        "horas": 142.5,
+        "pct": 10.12
+      },
+      {
+        "tema": "Cuidados paliativos - Protocolo institucional",
+        "horas": 110.0,
+        "pct": 7.81
+      },
+      {
+        "tema": "Otros temas",
+        "horas": 191.5,
+        "pct": 13.6
+      }
+    ],
+    "horas_capacitacion_evolucion": [
+      {
+        "label": "feb 2023",
+        "anio": "2023",
+        "mes": 2,
+        "horas": 154.0
+      },
+      {
+        "label": "mar 2023",
+        "anio": "2023",
+        "mes": 3,
+        "horas": 108.0
+      },
+      {
+        "label": "may 2023",
+        "anio": "2023",
+        "mes": 5,
+        "horas": 120.5
+      },
+      {
+        "label": "jul 2023",
+        "anio": "2023",
+        "mes": 7,
+        "horas": 124.0
+      },
+      {
+        "label": "sep 2023",
+        "anio": "2023",
+        "mes": 9,
+        "horas": 150.0
+      },
+      {
+        "label": "nov 2023",
+        "anio": "2023",
+        "mes": 11,
+        "horas": 62.0
+      },
+      {
+        "label": "ene 2024",
+        "anio": "2024",
+        "mes": 1,
+        "horas": 96.0
+      },
+      {
+        "label": "mar 2024",
+        "anio": "2024",
+        "mes": 3,
+        "horas": 56.0
+      },
+      {
+        "label": "abr 2024",
+        "anio": "2024",
+        "mes": 4,
+        "horas": 117.5
+      },
+      {
+        "label": "may 2024",
+        "anio": "2024",
+        "mes": 5,
+        "horas": 62.0
+      },
+      {
+        "label": "jun 2024",
+        "anio": "2024",
+        "mes": 6,
+        "horas": 79.5
+      },
+      {
+        "label": "ago 2024",
+        "anio": "2024",
+        "mes": 8,
+        "horas": 62.5
+      },
+      {
+        "label": "oct 2024",
+        "anio": "2024",
+        "mes": 10,
+        "horas": 54.0
+      },
+      {
+        "label": "nov 2024",
+        "anio": "2024",
+        "mes": 11,
+        "horas": 75.0
+      },
+      {
+        "label": "dic 2024",
+        "anio": "2024",
+        "mes": 12,
+        "horas": 87.0
+      }
+    ],
+    "horas_por_rol": [
+      {
+        "rol": "Médico/a",
+        "Primeros auxilios": 67.5,
+        "Administración de medicamentos": 49.0,
+        "Uso del sistema Aconpy": 42.0,
+        "Bioseguridad y residuos patológicos": 40.0,
+        "Comunicación con familias": 40.0,
+        "Manejo del sistema Nexup": 33.0,
+        "Cuidados paliativos - Protocolo institucional": 26.0,
+        "Otros temas": 48.0
+      },
+      {
+        "rol": "Psicólogo/a",
+        "Primeros auxilios": 55.5,
+        "Administración de medicamentos": 42.5,
+        "Uso del sistema Aconpy": 39.0,
+        "Bioseguridad y residuos patológicos": 34.0,
+        "Comunicación con familias": 30.0,
+        "Manejo del sistema Nexup": 30.0,
+        "Cuidados paliativos - Protocolo institucional": 22.5,
+        "Otros temas": 38.5
+      },
+      {
+        "rol": "Psiquiatra",
+        "Primeros auxilios": 40.0,
+        "Administración de medicamentos": 26.0,
+        "Uso del sistema Aconpy": 30.0,
+        "Bioseguridad y residuos patológicos": 26.0,
+        "Comunicación con familias": 22.5,
+        "Manejo del sistema Nexup": 25.5,
+        "Cuidados paliativos - Protocolo institucional": 18.0,
+        "Otros temas": 31.5
+      },
+      {
+        "rol": "Nutricionista",
+        "Primeros auxilios": 26.0,
+        "Administración de medicamentos": 21.0,
+        "Uso del sistema Aconpy": 21.0,
+        "Bioseguridad y residuos patológicos": 20.0,
+        "Comunicación con familias": 20.0,
+        "Manejo del sistema Nexup": 12.0,
+        "Cuidados paliativos - Protocolo institucional": 14.0,
+        "Otros temas": 19.0
+      },
+      {
+        "rol": "Coordinadora de Talleres",
+        "Primeros auxilios": 27.0,
+        "Administración de medicamentos": 16.0,
+        "Uso del sistema Aconpy": 18.0,
+        "Bioseguridad y residuos patológicos": 16.0,
+        "Comunicación con familias": 12.5,
+        "Manejo del sistema Nexup": 13.5,
+        "Cuidados paliativos - Protocolo institucional": 10.5,
+        "Otros temas": 16.0
+      },
+      {
+        "rol": "Administrativo/a",
+        "Primeros auxilios": 18.0,
+        "Administración de medicamentos": 18.5,
+        "Uso del sistema Aconpy": 15.0,
+        "Bioseguridad y residuos patológicos": 18.0,
+        "Comunicación con familias": 10.0,
+        "Manejo del sistema Nexup": 13.5,
+        "Cuidados paliativos - Protocolo institucional": 10.5,
+        "Otros temas": 19.0
+      },
+      {
+        "rol": "Enfermero/a",
+        "Primeros auxilios": 16.0,
+        "Administración de medicamentos": 6.5,
+        "Uso del sistema Aconpy": 12.0,
+        "Bioseguridad y residuos patológicos": 8.0,
+        "Comunicación con familias": 10.0,
+        "Manejo del sistema Nexup": 9.0,
+        "Cuidados paliativos - Protocolo institucional": 3.5,
+        "Otros temas": 9.0
+      },
+      {
+        "rol": "Kinesiólogo/a",
+        "Primeros auxilios": 9.5,
+        "Administración de medicamentos": 4.5,
+        "Uso del sistema Aconpy": 6.0,
+        "Bioseguridad y residuos patológicos": 4.0,
+        "Comunicación con familias": 2.5,
+        "Manejo del sistema Nexup": 3.0,
+        "Cuidados paliativos - Protocolo institucional": 3.5,
+        "Otros temas": 5.5
+      },
+      {
+        "rol": "Soporte Tecnológico",
+        "Primeros auxilios": 9.5,
+        "Administración de medicamentos": 5.0,
+        "Uso del sistema Aconpy": 3.0,
+        "Bioseguridad y residuos patológicos": 4.0,
+        "Comunicación con familias": 2.5,
+        "Manejo del sistema Nexup": 3.0,
+        "Cuidados paliativos - Protocolo institucional": 1.5,
+        "Otros temas": 5.0
+      }
+    ],
+    "roles_sorted": [
+      "Médico/a",
+      "Psicólogo/a",
+      "Psiquiatra",
+      "Nutricionista",
+      "Coordinadora de Talleres",
+      "Administrativo/a",
+      "Enfermero/a",
+      "Kinesiólogo/a",
+      "Soporte Tecnológico"
+    ],
+    "temas_sorted": [
+      "Primeros auxilios",
+      "Administración de medicamentos",
+      "Uso del sistema Aconpy",
+      "Bioseguridad y residuos patológicos",
+      "Comunicación con familias",
+      "Manejo del sistema Nexup",
+      "Cuidados paliativos - Protocolo institucional",
+      "Otros temas"
+    ],
+    "promedio_anual_por_empleado": 1.39,
+    "total_empleados": 35
+  }
+}
